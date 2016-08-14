@@ -1,6 +1,6 @@
 ## Curso de streaming de audio
 
-Este repositorio contiene el código desarrollado para el curso: URL
+Este repositorio contiene el código desarrollado para el curso: [Streaming de Audio con Node.js](http://www.appdelante.com/cursos/streaming-audio-con-node).
 
 #### Requisitos:
 
